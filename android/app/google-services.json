@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "610879933772",
+    "firebase_url": "https://birds-app-6e68c-default-rtdb.firebaseio.com",
+    "project_id": "birds-app-6e68c",
+    "storage_bucket": "birds-app-6e68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610879933772:android:1eba78e6ad8b03d03953e9",
+        "android_client_info": {
+          "package_name": "com.example.birdz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610879933772-l0l9fikdho38p3dqf06img5v90vnv54q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.birdz_app",
+            "certificate_hash": "f65f17db8b91cdc7117bf1ba9852668849582534"
+          }
+        },
+        {
+          "client_id": "610879933772-f43l2q5qh7k5n2o1uosvotm1vddiur0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3b46QENyMUxxndgOthsGfhufJ9QASfv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610879933772-f43l2q5qh7k5n2o1uosvotm1vddiur0j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610879933772-jfj7qeo0st5cu7h8bf6qsl3ka5qq6i5e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.birdzApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

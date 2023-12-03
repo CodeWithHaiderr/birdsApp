@@ -1,0 +1,71 @@
+{
+  "categories": [
+    {
+      "name": "Parrots",
+      "subcategory": [
+        "Pair",
+        "Single",
+        "Accessories",
+        "Cages",
+        "Feed",
+        "Medicines",
+        "Others"
+      ]
+    },
+    {
+      "name": "Pigeons",
+      "subcategory": [
+        "Pair",
+        "Single",
+        "Accessories",
+        "Cages",
+        "Feed",
+        "Medicines",
+        "Others"
+      ]
+    },
+    {
+      "name": "Finches",
+      "subcategory": [
+        "Pair",
+        "Single",
+        "Accessories",
+        "Cages",
+        "Feed",
+        "Medicines",
+        "Others"
+      ]
+    },
+    {
+      "name": "Ducks",
+      "subcategory": [
+        "Pair",
+        "Single",
+        "Accessories",
+        "Cages",
+        "Feed",
+        "Medicines",
+        "Others"
+      ]
+    },
+    {
+      "name": "Sparrows",
+      "subcategory": [
+        "Pair",
+        "Single",
+        "Accessories",
+        "Cages",
+        "Feed",
+        "Medicines",
+        "Others"
+      ]
+    },
+    {
+      "name": "Other Birds",
+      "subcategory": [
+        "Local",
+        "Imported"
+      ]
+    }
+  ]
+}
